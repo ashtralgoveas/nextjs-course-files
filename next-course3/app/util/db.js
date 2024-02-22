@@ -1,0 +1,51 @@
+export const users = [
+  {
+    id: "1",
+    name: "Alex Merson",
+    age: 29,
+    email: "alexmerson@gmail.com",
+    password: "alexmerson12",
+  },
+  {
+    id: "2",
+    name: "Quagmire",
+    age: 21,
+    email: "quagmire@gmail.com",
+    password: "quagmire12",
+  },
+  {
+    id: "3",
+    name: "Jordan",
+    age: 25,
+    email: "jordan@gmail.com",
+    password: "jordan12",
+  },
+  {
+    id: "4",
+    name: "Jordan",
+    age: 25,
+    email: "jordan@gmail.com",
+    password: "jordan12",
+  },
+  {
+    id: "5",
+    name: "Mike",
+    age: 25,
+    email: "mike@gmail.com",
+    password: "mike12",
+  },
+  {
+    id: "6",
+    name: "Tony",
+    age: 25,
+    email: "tony@gmail.com",
+    password: "tony12",
+  },
+  {
+    id: "7",
+    name: "May",
+    age: 25,
+    email: "may@gmail.com",
+    password: "may12",
+  },
+];
